@@ -1,0 +1,3 @@
+humanfriendly
+pomegranate==0.14.7
+torchdiffeq
